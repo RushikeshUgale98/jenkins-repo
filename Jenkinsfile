@@ -32,8 +32,9 @@ pipeline {
         stage ('Echo Branch') {
 
             steps {
+
                 
-                    echo "This is master branch"
+                    echo "This is 23q1 branch"
                 }
             
         }
